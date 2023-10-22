@@ -1,7 +1,7 @@
 h1{
     
     text-align: center;
-    background-color: mediumspringgreen;
+    color: black;
 }
 h2{
     text-align: center;
@@ -30,7 +30,7 @@ li{
     text-align: center;
 }
 .luz{
-    background-color: rgba(0, 0, 0, 0.274);
+    color: darkgoldenrod;
 }
 .lista{
     display: inline-block;
