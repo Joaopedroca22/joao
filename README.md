@@ -25,6 +25,9 @@
         <p class="brilho"><strong> Comportamento migratório:</strong>um peixe de couro de grande porte, que pode atingir mais de 1,5 metro de comprimento e pesar mais de 80 kg. É encontrado principalmente na região amazônica</li>
         <div class="imagemcentralizada">
     <img class="imgem1" src="https://i.ytimg.com/vi/RctWZeNPnb8/maxresdefault.jpg">
+    <img class="imgem2" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fishtv.com%2Fbusca%2Fja%25C3%25BA&psig=AOvVaw1H5VT61yTQSHwc0I6Gx4l4&ust=1697657215432000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi69Jfo_YEDFQAAAAAdAAAAABAE">
+    <img class="imgem3" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.papasiri.com%2Fguia-definitivo-sobre-os-peixes-de-couro-tudo-que-voce-precisa-saber%2F&psig=AOvVaw1H5VT61yTQSHwc0I6Gx4l4&ust=1697657215432000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi69Jfo_YEDFQAAAAAdAAAAABAJ">
+    <img class="imgem4" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cpt.com.br%2Fcursos-criacaodepeixes%2Fartigos%2Fpintado-ou-cachara-o-surubim-e-muito-cobicado-por-pescadores-profissionais-e-amadores&psig=AOvVaw0AijfSg4e5pOdaVhRD-PYO&ust=1697657412038000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiGiu_o_YEDFQAAAAAdAAAAABAI">
         </div>
         <ul>
             <li class="lista"><strong>Jaú (Paulicea lutkeni): </strong> um dos maiores peixes de couro da América do Sul, podendo atingir mais de 1,5 metro de comprimento e pesar mais de 100 kg. É encontrado principalmente na região amazônica e no Pantanal
