@@ -37,3 +37,31 @@ li{
 li{
     text-align: center;
 }
+.imagem1{
+    width:200;
+    text-align: center;
+}
+.imagem2 {
+    width: 200;
+    text-align: center;
+}
+.imagem3{
+    width: 200;
+    text-align: center;
+}
+.imagem4{
+    width: 200;
+    text-align: center;
+}
+.luz{
+    background-color: rgba(208, 255, 0, 0.281);
+}
+.brilho{
+    color: rgba(255, 255, 0, 0.322);
+    font-style: italic;
+}
+.lista{
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
+}
