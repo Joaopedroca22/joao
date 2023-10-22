@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: rgba(255, 0, 43, 0.377);
+}
+p{
+    text-align: center;
+    background-color: rgba(77, 165, 42, 0.514);
+}
+.luz{
+    color: rgba(255, 251, 0, 0.616);
+}
+.lista{
+    text-align: center;
+}
