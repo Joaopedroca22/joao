@@ -26,7 +26,6 @@
         <ul>
             <div class="imagemcentralizada">
             <li class="lista"><strong>Jaú (Paulicea lutkeni): </strong> um dos maiores peixes de couro da América do Sul, podendo atingir mais de 1,5 metro de comprimento e pesar mais de 100 kg. É encontrado principalmente na região amazônica e no Pantanal>
-                
             <img class="imgem2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlo1rOuCuHIgnoplZn8C5PkxwqCSzGl9Tl___OfpD483A5h-7Gm6SltctnKcP1f-hXNY4&usqp=CAU">
             <li class="lista"><strong>Pirarara (Phractocephalus hemioliopterus): </strong> um peixe de couro de grande porte, que pode atingir mais de 1,5 metro de comprimento e pesar mais de 80 kg. É encontrado principalmente na região amazônica>
             <img class="imgem1" src="https://i.ytimg.com/vi/RctWZeNPnb8/maxresdefault.jpg"> 
