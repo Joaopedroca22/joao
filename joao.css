@@ -30,11 +30,7 @@ li{
     text-align: center;
 }
 .luz{
-    background-color: rgba(208, 255, 0, 0.281);
-}
-.brilho{
-    color: rgba(255, 255, 0, 0.322);
-    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.274);
 }
 .lista{
     display: inline-block;
