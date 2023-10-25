@@ -14,22 +14,22 @@ li{
     text-align: center;
 }
 .imagem1{
-    width:200;
+    width-:200;
     text-align: center;
     size: 100cap;
 }
 .imagem2 {
-    width: 200;
+    width-: 200;
     text-align: center;
     size: 100cap;
 }
 .imagem3{
-    width: 200;
+    width-: 200;
     text-align: center;
     size: 100cap;
 }
 .imagem4{
-    width: 200;
+    width-: 200;
     text-align: center;
     size: 100cap;
 }
@@ -40,4 +40,7 @@ li{
     display: inline-block;
     padding: 5%;
     margin-right: 10%;
+}
+.buttom{
+    color: chocolate;
 }
