@@ -44,3 +44,8 @@ li{
 .buttom{
     color: chocolate;
 }
+nav a:hover{
+    color: brown;
+    text-decoration: underline;
+}
+
